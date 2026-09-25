@@ -35,10 +35,6 @@
   .features-title {
     text-align: left;
   }
-
-  .features-text {
-    font-weight: 400;
-  }
 }
 
 @media screen and (min-width: 1158px) {

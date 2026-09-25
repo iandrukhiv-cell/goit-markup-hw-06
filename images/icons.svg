@@ -73,5 +73,8 @@
 <symbol id="icon-twitter" viewBox="0 0 34 32">
 <path fill="#f4f4fd" style="fill: var(--color3, #f4f4fd)" d="M26.88 0h5.235l-11.435 13.103 13.453 17.83h-10.532l-8.25-10.816-9.44 10.816h-5.237l12.23-14.016-12.905-16.917h10.801l7.456 9.884 8.623-9.884zM25.045 27.793h2.901l-18.724-24.817h-3.11l18.933 24.817z"></path>
 </symbol>
+<symbol id="icon-burger" viewBox="0 0 24 24">
+  <path d="M3 6h18v2H3V6zm0 5h18v2H3v-2zm0 5h18v2H3v-2z"></path>
+</symbol>Ы
 </defs>
 </svg>
